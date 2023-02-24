@@ -90,7 +90,7 @@ console.log(calcFinalPrice(5, 2, .06))
     ram will be a number for how many Gb's it has
     graphicCard will be an object with a brand name and model strings
     wireless will be boolean  to determine if in can use wireless internet
-    and accessories will be an array of things like monitors or speakers
+    and accessories will be an array of added on things like monitors or speakers
 */
 
 /*
